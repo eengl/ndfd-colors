@@ -1,0 +1,16 @@
+# #  Color definitions file for weather grids categories
+255 255 255         		# Background RGB value
+255 255 255         		# Missing value RGB value
+0 0 0               		# Map (shapefile) RGB color value
+0 0 0               		# Legend RGB color value
+0 0 0               		# Sample point RGB color value
+1.00                		# Step size of color table
+1.0 5.0 1.0         		# Legend Values: Min, Max, Interval
+0                   		# Sample Value: # of post-decimal point values
+0.00		254 239 231  None __None__
+1.00		0   49  255  SChc _SChc/Iso_
+2.00		1   210 0    Chc  _Chc/Sct_
+3.00		255 255 0    Lkly _Lkly/Num_
+4.00		255 140 0    Pds  _Pds/Wide_
+5.00		255 0   0    Def  _Def/Ocnl_
+6.00		255 255 255 

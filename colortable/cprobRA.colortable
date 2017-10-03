@@ -1,0 +1,14 @@
+#  Color definitions file for Ptype Cond Prob Rain
+255 255 255                     # Background RGB value
+255 255 255                     # Missing value RGB value
+0 0 0                           # Map (shapefile) RGB color value
+0 0 0                           # Legend RGB color value
+0 0 0                           # Sample point RGB color value
+.05                               # Step size of color table
+0.10 0.90 0.10                        # Legend Values: Min, Max, Interval
+2                               # Sample Value: # of post-decimal point values
+0.00    255 250 240                # Red, Green, Blue value definition
+0.01    220 255 200
+0.15   198 255 173                # NDFD Rain LoProb
+0.55     0 206   0                # NDFD Rain HiProb
+1.00    0 130   0

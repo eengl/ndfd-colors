@@ -1,0 +1,20 @@
+# #  Color definitions file for potential indices produced for weather grids
+255 255 255         		# Background RGB value
+255 255 255         		# Missing value RGB value
+0 0 0               		# Map (shapefile) RGB color value
+0 0 0               		# Legend RGB color value
+0 0 0               		# Sample point RGB color value
+1.0                 		# Step size of color table
+10 90 10            		# Legend Values: Min, Max, Interval
+0                   		# Sample Value: # of post-decimal point values
+0		254 239 231     # None - offwhite
+14		220 220 220     #
+15		0   191 255     # Schc - blue
+24		0   0   255     #
+25		0   255 0       # Chc - green
+54		0   128 0       #
+55		255 255 0       # Lkly - yellow/orange
+74		255 165 0       #
+75		255 0   0       # Def - red
+99		139 0   0       #
+100		119 0   0       #

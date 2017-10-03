@@ -1,0 +1,26 @@
+#  Color definitions file for Temperature Data  - SUMMER SEASON
+255 255 255                     # Background RGB value
+255 255 255                     # Missing value RGB value
+0 0 0                           # Map (shapefile) RGB color value
+0 0 0                           # Legend RGB color value
+0 0 0                           # Sample point RGB color value
+5                               # Step size of color table
+15 95 5                         # Legend Values: Min, Max, Interval
+0                               # Sample Value: # of post-decimal point values
+12.5	  255 228 220  	        # Temperature, Red, Green, Blue value definition
+17.5      139 0   139
+22.5      137 104 205
+27.5      242 62  249
+32.5      255 174 185
+37.5      224 227 219
+42.5      0   238 238
+47.5      16  78  139
+52.5      0   139 0
+57.5      0   205 0
+62.5      0   255 0
+67.5      255 215 0
+72.5      255 127 255
+77.5      238 64  0   
+82.5      255 0   0
+87.5      238 44  44
+97.5      255 228 220

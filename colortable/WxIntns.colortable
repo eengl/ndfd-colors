@@ -1,0 +1,15 @@
+# #  Color definitions file for weather grids intensity
+255 255 255         		# Background RGB value
+255 255 255         		# Missing value RGB value
+0 0 0               		# Map (shapefile) RGB color value
+0 0 0               		# Legend RGB color value
+0 0 0               		# Sample point RGB color value
+1.00                		# Step size of color table
+1.0 4.0 1.0         		# Legend Values: Min, Max, Interval
+0                   		# Sample Value: # of post-decimal point values
+0   255 239 231     None    ____None____	     # NOTE: Use '_' in
+1   255 229 231     None    ____None____               # Description Field
+2   1   210 0       -       ___Light___   (LoProb R-) # for multiple word
+3   255 255 0       m       __Moderate__   (LoProb R+) # descriptors!
+4   255 140 0       +       ___Heavy___   (LoProb R+) # descriptors!
+5   255 255 255     None    ____None____              

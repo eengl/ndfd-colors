@@ -1,0 +1,11 @@
+#  Color definitions file for qpf 
+255 255 255                     # Background RGB value
+255 255 255                     # Missing value RGB value
+0 0 0                           # Map (shapefile) RGB color value
+255 255 255                           # Legend RGB color value
+255 255 255                           # Sample point RGB color value
+1.0                             # Step size of color table
+0.5 5.5 1.0               	# Legend Values: Min, Max, Interval
+1				# Sample Value: # of post-decimal point values 
+0      255 255 255 		# QPF Value, Red, Green, Blue value definition
+1      255 255 255	# QPF Value, Red, Green, Blue value definition
