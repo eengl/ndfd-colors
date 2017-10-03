@@ -10,7 +10,7 @@ import sys
 # Test for command arguments
 # ---------------------------------------------------------------------------------------- 
 if len(sys.argv) != 3:
-    print "usage: ./",sys.argv[0]," <COLORTABLE_FILE> <CPT_FILE>"
+    print "usage: ",sys.argv[0]," <COLORTABLE_FILE> <CPT_FILE>"
     exit(1)
 
 # ---------------------------------------------------------------------------------------- 
